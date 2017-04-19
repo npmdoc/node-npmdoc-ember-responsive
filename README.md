@@ -1,9 +1,14 @@
-# api documentation for  [ember-responsive (v2.0.2)](https://github.com/freshbooks/ember-responsive#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-responsive.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-responsive) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-responsive.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-responsive)
+# npmdoc-ember-responsive
+
+#### api documentation for  [ember-responsive (v2.0.2)](https://github.com/freshbooks/ember-responsive#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-responsive.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-responsive) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-responsive.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-responsive)
+
 #### An ember-cli addon that give you a simple, Ember-aware way of dealing with media queries.
 
-[![NPM](https://nodei.co/npm/ember-responsive.png?downloads=true)](https://www.npmjs.com/package/ember-responsive)
+[![NPM](https://nodei.co/npm/ember-responsive.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-responsive)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-responsive/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ember-responsive_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-responsive/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ember-responsive/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ember-responsive/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-responsive/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-responsive/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ember-responsive/build/screenCapture.npmPackageListing.svg)
 
@@ -70,33 +75,26 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "alexbaizeau",
-            "email": "alexandre.baizeau@gmail.com"
+            "name": "alexbaizeau"
         },
         {
-            "name": "f3ndot",
-            "email": "me@justinbull.ca"
+            "name": "f3ndot"
         },
         {
-            "name": "geiger",
-            "email": "geiger@freshbooks.com"
+            "name": "geiger"
         },
         {
-            "name": "k-fish",
-            "email": "fisherk.work@gmail.com"
+            "name": "k-fish"
         },
         {
-            "name": "markstory",
-            "email": "mark@mark-story.com"
+            "name": "markstory"
         },
         {
-            "name": "minichate",
-            "email": "minichate@gmail.com"
+            "name": "minichate"
         }
     ],
     "name": "ember-responsive",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/freshbooks/ember-responsive.git"
@@ -109,17 +107,6 @@
     "version": "2.0.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ember-responsive](#apidoc.module.ember-responsive)
-1.  string <span class="apidocSignatureSpan">ember-responsive.</span>name
-
-
-
-# <a name="apidoc.module.ember-responsive"></a>[module ember-responsive](#apidoc.module.ember-responsive)
 
 
 
